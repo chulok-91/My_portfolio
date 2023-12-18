@@ -4,4 +4,4 @@
 
 | Название проекта      | Описание                               | Стек                        |
 | :-------------------- | :------------------------------------- |:----------------------------|
-| [Анализ оттока клиентов](https://github.com/chulok-91/My_portfolio/tree/main/churn_clients_banks)| Анализ клиентов регионального банка. Выделение сегментов клиентов, которые склонны уходить из банка.| pandas, matplotlib, seaborn, numpy, phik, stats| 
+| [Анализ оттока клиентов](https://github.com/chulok-91/My_portfolio/tree/main/churn_clients_banks)| Анализ оттока клиентов регионального банка. Выделение сегментов клиентов, которые склонны уходить из банка.| pandas, matplotlib, seaborn, numpy, phik, stats| 
