@@ -8,3 +8,5 @@
 
 ## Используемые библиотеки
 *pandas, numpy, datetime, matplotlib*
+
+## Общий вывод
