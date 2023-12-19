@@ -8,3 +8,5 @@
 
 ## Используемые библиотеки
 *pandas, datetime, seaborn, matplotlib, numpy, math, scipy, plotly*
+
+## Общий вывод
